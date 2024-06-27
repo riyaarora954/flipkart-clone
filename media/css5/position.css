@@ -1,0 +1,17 @@
+.one {
+  background-color: aqua;
+  height: 200px;
+  width: 200px;
+  /* position: absolute;
+  bottom: 0px;
+  right: 20px; */
+}
+.two {
+  background-color: lightcoral;
+  height: 200px;
+  width: 200px;
+  /* position: relative;
+  top: 400px;
+  right: 20px; */
+  /* position: fixed; */
+}
